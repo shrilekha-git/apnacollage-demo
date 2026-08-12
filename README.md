@@ -1,4 +1,5 @@
 # apnacollage-demo
 This is my first git repository.
 <br>
-Author- shrilekha Atanure
+Author- laxmi atanure
+
